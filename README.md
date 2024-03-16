@@ -1,2 +1,2 @@
-# advanced_nlp_project
-Neural Language Processing Project: Earning Calls Sentiment Analysis
+# NLP_project
+Natural Language Processing Project: Earning Calls Sentiment Analysis
