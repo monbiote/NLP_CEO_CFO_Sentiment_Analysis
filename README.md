@@ -7,8 +7,8 @@
 #### Abstract
 This paper explores the dynamic shifts in sentiment expressed by CEOs and CFOs during economic crises and assesses the accuracy of their communications in such times. We analyzed earnings call transcripts from four distinct companies, applying sentiment analysis to texts from both CEOs and CFOs. The sentiment scores obtained were then regressed against share price data to gauge the correlation with actual company performance. Our findings reveal that although CEOs generally exhibit higher sentiment scores, this disparity lessens during periods of economic crisis. Significantly, the analysis indicates that CFOs consistently offer a more accurate reflection of company performance in relation to share prices. This study acknowledges its own limitations and suggests directions for future research, aiming to deepen the understanding of executive sentiment in corporate communications during economic downturns.
 
-## Section 1) Web Scraping Earnings Calls Transcripts 
-## Section 2) Sentiment Analysis of Earnings Calls
+### Section 1) Web Scraping Earnings Calls Transcripts 
+### Section 2) Sentiment Analysis of Earnings Calls
 
 ---
 
