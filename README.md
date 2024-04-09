@@ -65,7 +65,9 @@ This section focuses on implementing web scraping techniques to gather large dat
 
 ## Project Conclusion
 Our study revealed that CEOs typically showed higher sentiment scores, but this difference narrowed during economic crises. Notably, CFOs consistently provided a more accurate reflection of company performance relative to share prices. 
----
+
+--
+
 ## Further Study
 We recommend incorporating time lags into sentiment scores for a deeper analysis of their influence on future share prices and exploring Vector Autoregressive (VAR) models for a more comprehensive understanding of time-dependent variables interactions. Additionally, refining sentiment score computation by normalizing for speech length and style and implementing TF-IDF weighting will allow for a more nuanced and equitable sentiment analysis.
 
