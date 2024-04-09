@@ -5,7 +5,7 @@
 ##### Date: March 18th, 2024
 
 #### Abstract
-This paper explores the dynamic shifts in sentiment expressed by CEOs and CFOs during economic crises and assesses the accuracy of their communications in such times. We analyzed earnings call transcripts from four distinct companies, applying sentiment analysis to texts from both CEOs and CFOs. The sentiment scores obtained were then regressed against share price data to gauge the correlation with actual company performance. Our findings reveal that although CEOs generally exhibit higher sentiment scores, this disparity lessens during periods of economic crisis. Significantly, the analysis indicates that CFOs consistently offer a more accurate reflection of company performance in relation to share prices. This study acknowledges its own limitations and suggests directions for future research, aiming to deepen the understanding of executive sentiment in corporate communications during economic downturns.
+This project explores the dynamic shifts in sentiment expressed by CEOs and CFOs during economic crises and assesses the accuracy of their communications in such times. We analyzed earnings call transcripts from four distinct companies, applying sentiment analysis to texts from both CEOs and CFOs. The sentiment scores obtained were then regressed against share price data to gauge the correlation with actual company performance.
 
 ### Section 1) Web Scraping Earnings Calls Transcripts 
 ### Section 2) Sentiment Analysis of Earnings Calls
@@ -63,9 +63,9 @@ This section focuses on implementing web scraping techniques to gather large dat
 
 ---
 
-## Getting Started
-To get started with these projects, clone this repository and ensure you have the required dependencies installed. Detailed instructions for setup and execution are provided in each project's respective notebook.
-
-## Acknowledgements
-Special thanks to all contributors and mentors who have provided guidance and support throughout these projects.
+## Project Conclusion
+Our study revealed that CEOs typically showed higher sentiment scores, but this difference narrowed during economic crises. Notably, CFOs consistently provided a more accurate reflection of company performance relative to share prices. 
+---
+## Further Study
+We recommend incorporating time lags into sentiment scores for a deeper analysis of their influence on future share prices and exploring Vector Autoregressive (VAR) models for a more comprehensive understanding of time-dependent variables interactions. Additionally, refining sentiment score computation by normalizing for speech length and style and implementing TF-IDF weighting will allow for a more nuanced and equitable sentiment analysis.
 
